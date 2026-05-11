@@ -4,11 +4,13 @@ These organizations are primarily used to structure projects by domain and respo
 
 I prefer treating each system as an independent project rather than combining unrelated concerns into a single repository or profile structure. Over time, this organization model also created space for conversations with developers, recruiters, founders, and people exploring specific domains, early ideas who may be interested in discussing, building, or collaborating.
 
-## What
+## Purpose
 
 *Web256Bridge* hosts backend systems built primarily using Python, Django, DRF, and Flask. The organization focuses on APIs and service layers designed with explicit architecture, reusable patterns, and long-term maintainability in mind.
 
 > The primary project currently driving the organization is `34RBAC`, a role-based access control system focused on authentication, authorization, token management, permissions, audit logging, and structured operational workflows.
+
+[![Tools](https://skillicons.dev/icons?i=python,django,flask,postgresql,redis,github,aws)](https://skillicons.dev)
 
 ## Main Focus
 
